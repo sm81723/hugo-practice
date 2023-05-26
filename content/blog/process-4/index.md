@@ -1,5 +1,6 @@
 ---
 title: Our Manufacturing Process Part IV
+series: [manufacturing]
 date: "2019-01-04T00:00:00Z"
 ---
 
